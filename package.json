@@ -1,0 +1,20 @@
+{
+  "name": "email-notification-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "aws-sdk": "^2.1675.0",
+    "dotenv": "^16.4.5",
+    "events": "^3.3.0",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14"
+  }
+}
